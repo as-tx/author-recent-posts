@@ -4,11 +4,11 @@
 
 /*
 Plugin Name: Author Recent Posts
-Plugin URI: https://www.astech.club/wordpress-javascript-jquery-plugins/author-recent-posts/
+Plugin URI: https://www.astech.solutions/wordpress-javascript-jquery-plugins/author-recent-posts/
 Description: Author Recent Posts plugin shows recent posts by an author on a single post page written by him as a responsive sidebar widget or in page/post using the shortcode.
 Version: 1.5
 Author: AS Tech Solutions
-Author URI: https://www.astech.club/
+Author URI: https://www.astech.solutions/
 Text Domain: author-recent-posts
 Domain Path: /languages
 License: GPLv2 or later
